@@ -1,0 +1,8 @@
+\documentclass[a4paper]{article}
+\usepackage{pdfpages}
+\begin{document}
+% \includepdfmerge{F:/DataW/pdfpages/100+question.pdf,1-10}
+\includepdfmerge{F:/DataW/pdfpages/page-17.png,1}
+\includepdfmerge{F:/DataW/pdfpages/page-18.png,1}
+\includepdfmerge{F:/DataW/pdfpages/page-19.png,1}
+\end{document}
